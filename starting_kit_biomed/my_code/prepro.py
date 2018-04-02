@@ -38,7 +38,6 @@ class Preprocessor(BaseEstimator):
     
     
 if __name__=="__main__":
-    # Put here your OWN test code
     
     # To make sure this runs on Codalab, put here things that will not be executed on Codalab
     from sys import argv, path
