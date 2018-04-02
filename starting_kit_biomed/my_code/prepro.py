@@ -39,7 +39,6 @@ class Preprocessor(BaseEstimator):
     
 if __name__=="__main__":
     
-    # To make sure this runs on Codalab, put here things that will not be executed on Codalab
     from sys import argv, path
     path.append ("../starting_kit/ingestion_program")
     from data_manager import DataManager  # such as DataManager
