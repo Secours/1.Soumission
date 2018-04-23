@@ -29,7 +29,8 @@ from sklearn.ensemble import ExtraTreesClassifier
 from sklearn.neural_network import MLPClassifier
 from sklearn.svm import SVC
 
-
+'''on a eu un probleme sur codalab avec les commentaires , dés qu'on rajoute le code avec plus de 3mots dans
+les commentaires la soumission marche plus alors ci joint le code avec les commentaires '''
 
 class model:
     def __init__(self):
